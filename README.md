@@ -1,4 +1,7 @@
 # AndroidStudyGuide
 
-CI : Github Actions
-Static Analysis: Ktlint & Detekt
+Tech Stack:
+
+- Continous Integration : Github Actions
+
+- Static Analysis: Ktlint & Detekt
